@@ -1,7 +1,8 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>tawzenstore</div>
+    <div>tawzenstore 
+      <p className="text-purple-800">yeni güncelleme</p>
+    </div>
   );
 }
